@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Hitika Hirani 👋
+🔭 I’m currently working on an A/B Testing of Fast Food Marketing Campaign Project
+🌱 I’m currently learning Adobe Analytics & NoSQL
+😄 Pronouns: She/her/hers
+📫 How to reach me: Phone - +1 (321) 696 -1559 or Email - hiranihitika@gmail.com
 
 <!--
 **hitikah/hitikah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
